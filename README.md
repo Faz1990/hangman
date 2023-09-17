@@ -1,13 +1,13 @@
-#Project Title
-##Classic Hangman Game
+# Project Title
+## Classic Hangman Game
 
-##Table of Contents
+## Table of Contents
 - Description
 - Installation
 - Usage
 - File Structure
 - License
-###Description
+### Description
 A console-based implementation of the classic Hangman game. In this project, a player is prompted to guess letters of a randomly selected word from a predefined list. The goal of this project was to hone Python programming skills, particularly emphasizing object-oriented programming and user interaction.
 
 What it does:
@@ -22,7 +22,7 @@ Object-Oriented Programming in Python
 Handling user input and validation
 String manipulation and control structures
 
-###Installation
+### Installation
 Ensure you have Python 3.x installed on your machine.
 Clone the repository:
 
@@ -32,7 +32,7 @@ Navigate to the project directory:
 
 cd hangman
 
-###Usage
+### Usage
 In the terminal, run the game using:
 
 python hangman.py
@@ -44,5 +44,5 @@ hangman/
 ├── hangman.py   # The main game file containing all logic and classes.
 │
 └── README.md    # This file, explaining the project and its use.
-###License
+### License
 This project is under the MIT License. See the LICENSE file for more details.
