@@ -77,8 +77,11 @@ Follow the on-screen prompts to play the game.
 hangman/
 
 │
+
 ├── hangman.py   # The main game file containing all logic and classes.
+
 │
+
 └── README.md    # This file, explaining the project and its use.
 
 ## Enhancements/Future Work
