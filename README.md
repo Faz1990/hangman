@@ -33,7 +33,7 @@ This piece of code checks whether the user's guessed letter is in the word or no
 
 def _check_guess(self, guess):
 
-    #... (rest of the code)
+#... (rest of the code)
 
 #### 2. User Input Validation
 
@@ -50,7 +50,7 @@ Keeping the game running while the word hasn't been guessed entirely or lives re
 
 while self._num_lives > 0 and not self._is_word_guessed():
 
-    #... (rest of the code)
+#... (rest of the code)
 
 
 
@@ -75,6 +75,7 @@ Follow the on-screen prompts to play the game.
 ## File Structure
 
 hangman/
+
 │
 ├── hangman.py   # The main game file containing all logic and classes.
 │
