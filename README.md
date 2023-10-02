@@ -49,6 +49,8 @@ Keeping the game running while the word hasn't been guessed entirely or lives re
 while self._num_lives > 0 and not self._is_word_guessed():
     #... (rest of the code)
 
+
+
 ## Installation
 Ensure you have Python 3.x installed on your machine.
 
