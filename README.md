@@ -32,6 +32,7 @@ To create a fun, interactive game that also serves as a demonstration of Python'
 This piece of code checks whether the user's guessed letter is in the word or not. Handling correct and incorrect guesses was a crucial part of the game logic.
 
 def _check_guess(self, guess):
+
     #... (rest of the code)
 
 #### 2. User Input Validation
@@ -40,6 +41,7 @@ Ensuring the user's input was both valid and hadn't been previously guessed was 
 
 
 guess = input("Guess a letter: ")
+
 #... (rest of the code)
 
 
@@ -47,6 +49,7 @@ guess = input("Guess a letter: ")
 Keeping the game running while the word hasn't been guessed entirely or lives remain was vital. Here's how the main game loop was structured:
 
 while self._num_lives > 0 and not self._is_word_guessed():
+
     #... (rest of the code)
 
 
